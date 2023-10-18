@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.ff46036b.css",
-    "main.js": "/portfolio/static/js/main.b1766855.js",
+    "main.css": "/portfolio/static/css/main.bd69032e.css",
+    "main.js": "/portfolio/static/js/main.f1540ad7.js",
     "static/media/masthead.jpg": "/portfolio/static/media/masthead.88420b6bc538b80df753.jpg",
     "index.html": "/portfolio/index.html",
-    "main.ff46036b.css.map": "/portfolio/static/css/main.ff46036b.css.map",
-    "main.b1766855.js.map": "/portfolio/static/js/main.b1766855.js.map"
+    "main.bd69032e.css.map": "/portfolio/static/css/main.bd69032e.css.map",
+    "main.f1540ad7.js.map": "/portfolio/static/js/main.f1540ad7.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff46036b.css",
-    "static/js/main.b1766855.js"
+    "static/css/main.bd69032e.css",
+    "static/js/main.f1540ad7.js"
   ]
 }
